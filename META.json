@@ -52,6 +52,20 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.02"
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/yappo/p5-Number-Object/issues"
+      },
+      "homepage" : "https://github.com/yappo/p5-Number-Object",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/yappo/p5-Number-Object.git",
+         "web" : "https://github.com/yappo/p5-Number-Object"
+      }
+   },
+   "version" : "0.02",
+   "x_contributors" : [
+      "Kazuhiro Osawa <yappo@shibuya.pl>"
+   ]
 }
 
