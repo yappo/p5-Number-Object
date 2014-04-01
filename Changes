@@ -1,7 +1,10 @@
 Revision history for Number-Object
 
 {{$NEXT}}
-        - 
+
+0.03  2014-04-01 11:59:50 JST
+        - modern way
+        - japanese tax rate++ ;(
 
 0.02    2007-06-08T19:37:00+09:00
         - add plugin ArithmeticOperation
